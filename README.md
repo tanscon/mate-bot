@@ -5,8 +5,8 @@ This telegram bot counts how many mate each user has drunk
 This bot was mainly developed during the 35c3.So be aware the code quality should be low
 
 # Commands  
-/start -->  starts the bot and the bot will try to load the saved json file from the same directory.
-            If the bot finds the file, he will restore the saved state.
+/start -->  starts the bot. While the bot is starting he will try to load the saved json file which must be located in the same directory.
+If the bot succesfully finds the file, he will restore the saved state.
             
 /add *amount of mate* --> Add the given amount of bottles of mate to you own account. e.g /add 2 
 

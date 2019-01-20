@@ -1,8 +1,8 @@
 # mate-bot
-This telegram bot counts how many mate each user has drunk 
+This is just a simple telegram bot that counts how many mate each user has drunk.
 
 # Origin 
-This bot was mainly developed during the 35c3.So be aware the code quality should be low
+This bot was mainly developed during the 35c3.So be aware the code quality should be low.
 
 # Commands  
 /start -->  starts the bot. While the bot is starting he will try to load the saved json file which must be located in the same directory.
